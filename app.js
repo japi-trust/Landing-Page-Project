@@ -7,7 +7,7 @@ let navbarColor = document.querySelector(".navbar__menu");
 
 
 // End Global Variables
-function dynamicNav() {
+function dynamicNavBar() {
     for (let i = 0; i < sections.length; i++) {
       let section = sections[i];
       let sectionID = section.id;
@@ -29,7 +29,7 @@ function dynamicNav() {
       });
     }
   }
-  dynamicNav();
+  dynamicNavBar();
 
 //Add event listerner
 window.addEventListener("scroll", () => {
