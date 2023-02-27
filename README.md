@@ -29,3 +29,7 @@ The page automatically scrolls onClick, section desired on the navigation menu t
 ## License
 You can use free of charge, permission is granted.
 
+https://github.com/japi-trust/Landing-Page-Project
+
+https://github.com/udacity/fend/tree/refresh-2019/projects/landing-page
+
